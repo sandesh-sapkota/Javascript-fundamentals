@@ -38,3 +38,10 @@ const myFunction=function(){
 }
 
 myFunction()
+
+//+++++++++++++++++++++++++++++++
+
+// Stack(Primitive data type) , Heap(Non-Primitive data type)
+
+let myName = "SandySapkota"
+
