@@ -27,10 +27,13 @@ const myArr = [0,1,2,3,4,5]
 
 //slice , splice
 
-console.log("A", myArr);
+// console.log("A", myArr);
 
-console.log("B",myArr.slice(1,3));
+// console.log("B",myArr.slice(1,3));
 
 
-console.log("C", myArr.splice(1,3));
+// console.log("C", myArr.splice(1,3));
+
+//*********Slice*******/
+
 
